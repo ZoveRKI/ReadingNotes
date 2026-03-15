@@ -11,5 +11,6 @@
 ## Chapter
 - [Chapter_1](Chapter/Chapter_1.md)
 - [Chapter_2](Chapter/Chapter_2.md)
+- [Chapter_3](Chapter/Chapter_3.md)
 
 [Back to Menu](../Menu.md)
