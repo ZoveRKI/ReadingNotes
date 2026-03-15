@@ -14,7 +14,7 @@
 
 不同的应用有着不同的需求，因此在开发应用前，我们有必要先弄清楚最适合手头工作的工具和方法。
 而且当单个工具解决不了你的问题时，就需要组合使用这些数据系统。
-![alt text](images/One-possible-architecture-for-a-data-system-that-combines-several-components.png)  
+![alt text](images/One%20possible%20architecture%20for%20a%20data%20system%20that%20combines%20several%20components.png)  
 但是如何合理的整合这些数据系统，就需要更加深刻的理解这些数据系统，来更好的权衡架构设计。
 
 ## 设计数据密集型应用的三原则：
